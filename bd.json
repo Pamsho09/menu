@@ -27,7 +27,7 @@
        "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 12000,
         "imagen":"https://cdn.pixabay.com/photo/2015/04/08/13/13/pasta-712664_960_720.jpg"
-    }  ,
+    }  , 
   {
        "id": 4,
        "nombre":"Churrasco",
