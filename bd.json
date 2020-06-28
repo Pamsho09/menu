@@ -29,7 +29,7 @@
         "imagen":"https://cdn.pixabay.com/photo/2015/04/08/13/13/pasta-712664_960_720.jpg"
     }  ,
   {
-       "id": 0,
+       "id": 4,
        "nombre":"Churrasco",
         "ingredientes":"Churrasco de  Bufala, Sazonado con sal y pimienta, ensalada verde y papa gratinada",
         "precio": 18000,
@@ -37,27 +37,27 @@
 
     },
     {
-       "id": 1,
+       "id": 5,
        "nombre":"Cordon Bleu Suizo",
         "ingredientes":"Filete de ternera, sal, pimienta, queso Gruyere, jamon y ensalada rusa.",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2019/10/09/19/47/cordon-4538108_960_720.jpg"
     },
     {
-       "id": 2,
+       "id": 6,
        "nombre":"Merluza a la Gallega",
         "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2018/01/18/02/25/fish-3089420_960_720.jpg"
     },
     {
-       "id": 3,
+       "id": 7,
        "nombre":"Pasta a la Carbonara",
        "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 12000,
         "imagen":"https://cdn.pixabay.com/photo/2015/04/08/13/13/pasta-712664_960_720.jpg"
     }  ,{
-       "id": 0,
+       "id": 8,
        "nombre":"Churrasco",
         "ingredientes":"Churrasco de  Bufala, Sazonado con sal y pimienta, ensalada verde y papa gratinada",
         "precio": 18000,
@@ -65,27 +65,27 @@
 
     },
     {
-       "id": 1,
+       "id": 9,
        "nombre":"Cordon Bleu Suizo",
         "ingredientes":"Filete de ternera, sal, pimienta, queso Gruyere, jamon y ensalada rusa.",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2019/10/09/19/47/cordon-4538108_960_720.jpg"
     },
     {
-       "id": 2,
+       "id": 10,
        "nombre":"Merluza a la Gallega",
         "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2018/01/18/02/25/fish-3089420_960_720.jpg"
     },
     {
-       "id": 3,
+       "id": 11,
        "nombre":"Pasta a la Carbonara",
        "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 12000,
         "imagen":"https://cdn.pixabay.com/photo/2015/04/08/13/13/pasta-712664_960_720.jpg"
     }  ,{
-       "id": 0,
+       "id": 12,
        "nombre":"Churrasco",
         "ingredientes":"Churrasco de  Bufala, Sazonado con sal y pimienta, ensalada verde y papa gratinada",
         "precio": 18000,
@@ -93,27 +93,27 @@
 
     },
     {
-       "id": 1,
+       "id": 13,
        "nombre":"Cordon Bleu Suizo",
         "ingredientes":"Filete de ternera, sal, pimienta, queso Gruyere, jamon y ensalada rusa.",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2019/10/09/19/47/cordon-4538108_960_720.jpg"
     },
     {
-       "id": 2,
+       "id": 14,
        "nombre":"Merluza a la Gallega",
         "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2018/01/18/02/25/fish-3089420_960_720.jpg"
     },
     {
-       "id": 3,
+       "id": 15,
        "nombre":"Pasta a la Carbonara",
        "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 12000,
         "imagen":"https://cdn.pixabay.com/photo/2015/04/08/13/13/pasta-712664_960_720.jpg"
     }  ,{
-       "id": 0,
+       "id": 16,
        "nombre":"Churrasco",
         "ingredientes":"Churrasco de  Bufala, Sazonado con sal y pimienta, ensalada verde y papa gratinada",
         "precio": 18000,
@@ -121,21 +121,21 @@
 
     },
     {
-       "id": 1,
+       "id": 17,
        "nombre":"Cordon Bleu Suizo",
         "ingredientes":"Filete de ternera, sal, pimienta, queso Gruyere, jamon y ensalada rusa.",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2019/10/09/19/47/cordon-4538108_960_720.jpg"
     },
     {
-       "id": 2,
+       "id": 18,
        "nombre":"Merluza a la Gallega",
         "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 15000,
         "imagen":"https://cdn.pixabay.com/photo/2018/01/18/02/25/fish-3089420_960_720.jpg"
     },
     {
-       "id": 3,
+       "id": 19,
        "nombre":"Pasta a la Carbonara",
        "ingredientes":"Merluza en lomo, sal, pimienta, laurel, ajo, pimenton y papas",
         "precio": 12000,
